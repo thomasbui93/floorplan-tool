@@ -1,0 +1,385 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> AirBnB Amenities</title>
+    <meta name="keywords" content="airbnb, airbnb floorplan, airbnb drawing tool, airbnb amenities, airbnb furniture, amenities, drawing tool" />
+    <meta name="description" content="Drawing and configuring your floorplan with ease.">
+    <link rel="canonical" href="https://www.cubi.casa/airbnb-amenities">
+    <link rel="stylesheet" href="./introjs.css"/>
+    <link rel="stylesheet" href="./hopscotch.min.css"/>
+    <script src="./fabric_with_gestures.js"></script>
+    <script src="./fabricSquareBrush.js"></script>
+    <script src="./intro.js"></script>
+    <script src="./hopscotch.min.js"></script>
+</head>
+<body>
+<nav class="nav-bar" role="navigation">
+    <a class="navbrand" href="https://www.cubi.casa">
+        <img class="img-responsive" src="./logo-white.png">
+    </a>
+</nav>
+
+<div class="draw-canvas" style="margin-top:60px">
+    <canvas id="c" width="600" height="600" ></canvas>
+    <div class="gallery">
+        <div class="close">Close</div>
+        <div class="accordion">
+            <div class="accordion__header">Bedroom</div>
+            <div class="accordion__body icons">
+                <div class="icon">
+                    <img src="./furniture-sample/single-bed.svg">
+                    <div class="icon__tag">
+                        Single Bed
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/double-bed.svg">
+                    <div class="icon__tag">
+                        Double Bed
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/bedside-drawer.svg">
+                    <div class="icon__tag">
+                        Drawer
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion">
+            <div class="accordion__header">Living room</div>
+            <div class="accordion__body icons">
+                <div class="icon">
+                    <img src="./furniture-sample/sofa.svg">
+                    <div class="icon__tag">
+                        Sofa
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/chair.svg">
+                    <div class="icon__tag">
+                        Chair
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/sofa-extended.svg">
+                    <div class="icon__tag">
+                        Sofa 2
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/desk.svg">
+                    <div class="icon__tag">
+                        Desk
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion">
+            <div class="accordion__header">Kitchen</div>
+            <div class="accordion__body icons">
+                <div class="icon">
+                    <img src="./furniture-sample/stove.svg">
+                    <div class="icon__tag">
+                        Stove
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/dinner-table.svg">
+                    <div class="icon__tag">
+                        Dinner Table
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/fridge.svg">
+                    <div class="icon__tag">
+                        Fridge
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion">
+            <div class="accordion__header">Bathroom</div>
+            <div class="accordion__body icons">
+                <div class="icon">
+                    <img src="./furniture-sample/bath.svg">
+                    <div class="icon__tag">
+                        Bath
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/toilet.svg">
+                    <div class="icon__tag">
+                        Toilet
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion active">
+            <div class="accordion__header">Architect</div>
+            <div class="accordion__body icons">
+                <div class="icon">
+                    <img src="./furniture-sample/door.svg">
+                    <div class="icon__tag">
+                        Door
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/stairs.svg">
+                    <div class="icon__tag">
+                        Stairs
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/window.svg">
+                    <div class="icon__tag">
+                        Window
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/ZDoor.svg">
+                    <div class="icon__tag">
+                        Folding Door
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/sink.svg">
+                    <div class="icon__tag">
+                        Sink
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/toilet.svg">
+                    <div class="icon__tag">
+                        Toilet
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="accordion">
+            <div class="accordion__header">Amenities</div>
+            <div class="accordion__body icons">
+                <div class="icon">
+                    <img src="./furniture-sample/air-conditioner.svg">
+                    <div class="icon__tag">
+                        Conditioner
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/washer.svg">
+                    <div class="icon__tag">
+                        Washer
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/wireless.svg">
+                    <div class="icon__tag">
+                        Wireless
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/tv.svg">
+                    <div class="icon__tag">
+                        TV
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/dryer.svg">
+                    <div class="icon__tag">
+                        Dryer
+                    </div>
+                </div>
+                <div class="icon">
+                    <img src="./furniture-sample/fireplace.svg">
+                    <div class="icon__tag">
+                        Fireplace
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="drawing-tools" id="templates">
+        <div class="tool hint--right" data-hint="studio">
+            studio
+        </div>
+        <div class="tool hint--right" data-hint="ONE Bedroom">
+            1BR
+        </div>
+        <div class="tool hint--right"  data-hint="TWO Bedroom">
+            2BR
+        </div>
+        <div class="tool hint--right"  data-hint="THREE Bedroom">
+            3BR
+        </div>
+    </div>
+    <div class="drawing-tools" id="drawing">
+        <div class="tool hint--right" data-role="room" data-hint="Room">
+            <div class="tool__icon">
+                <img src="./tools/square.svg"/>
+            </div>
+            Room
+        </div>
+        <div class="tool hint--right" data-role="line" data-hint="Wall">
+            <div class="tool__icon">
+                <img src="./tools/line.svg"/>
+            </div>
+            Line
+        </div>
+        <div class="tool hint--right" data-role="doddle" data-hint="Doddle">
+            <div class="tool__icon">
+                <img src="./tools/pencil.svg"/>
+            </div>
+            Pencil
+        </div>
+
+    </div>
+
+    <div class="drawing-tools" id="mainMenu" >
+        <div id="drawingTool"
+             class="tool hint--right"
+             data-role="Drawing"
+             data-hint="Drawing" >
+            <div class="tool__icon">
+                <img src="./tools/drawing.svg"/>
+            </div>
+            Drawing
+        </div>
+        <div id="furnitureTool"
+             class="tool hint--right"
+             data-role="furniture"
+             data-hint="Architect"
+             data-intro='Hi, click me to add furniture and amenities'
+             data-step="1">
+            <div class="tool__icon">
+                <img src="./tools/furniture.svg"/>
+            </div>
+            Architect
+
+        </div>
+        <div id="labelTool"
+             class="tool hint--right"
+             data-role="label"
+             data-hint="Label"
+             data-intro="And click here to add labels for your rooms..." data-step="2">
+            <div class="tool__icon">
+                <img src="./tools/text.svg"/>
+            </div>
+            Label
+        </div>
+        <div id="eraserTool"
+             class="tool hint--right"
+             data-role="eraser"
+             data-hint="Eraser">
+            <div class="tool__icon">
+                <img src="./tools/eraser.svg"/>
+            </div>
+            Eraser
+        </div>
+        <div class="tool hint--right" data-role="undo" data-hint="undo">
+            <div class="tool__icon">
+                <img src="./tools/undo.svg"/>
+            </div>
+            Undo
+        </div>
+        <div class="tool hint--right" data-role="clear" data-hint="Clear">
+            <div class="tool__icon">
+                <img src="./tools/clear.svg"/>
+            </div>
+            Clear
+        </div>
+        <div id="importTool"
+             data-role="LOCAL IMAGE"
+             class="hint--right tool"
+             data-hint="ADD FLOOR PLAN"
+             data-intro='Or maybe upload your cubicasa floorplan' data-step="4">
+            <div class="tool__icon">
+                <img src="./tools/image.svg">
+                <input type="file" id="localImage" style="opacity: 0;height: 70px;" accept="image/*">
+            </div>
+            UPLOAD
+        </div>
+        <div data-role="DOWNLOAD" class="hint--right tool" data-hint="PROCESS"
+                data-intro="Click here to save the floorplan to your computer" id="download" data-step="3" style="background: #F44336;">
+
+            <div class="tool__icon">
+                <img src="./tools/save.svg">
+            </div>
+            SAVE
+        </div>
+    </div>
+    <div class="label-controller" draggable="false">
+        <div class="label-controller__header">
+            Label
+        </div>
+        <div class="label-controller__main">
+            <div class="label-controller__section">
+                <label>Size:</label>
+                <input type="number" id="fontSize" value="15"/>
+            </div>
+            <div class="label-controller__section">
+                <label>Style:</label>
+                <select id="fontStyle">
+                    <option value="normal">Normal</option>
+                    <option value="italic">Italic</option>
+                    <option value="oblique">Oblique</option>
+                </select>
+            </div>
+            <div class="label-controller__section">
+                <label>Weight:</label>
+                <select id="fontWeight">
+                    <option value="normal">Normal</option>
+                    <option value="bold">Bold</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="eraser-controller" >
+        <div class="eraser-controller__header">
+            Eraser
+        </div>
+        <div class="eraser-controller__main">
+            <div class="label-controller__section">
+                <label>Size:</label>
+                <div class="range-container">
+                    <div class="range-indicator">
+                        <div class="range__indicator"></div>
+                    </div>
+                    <input type="range" id="eraserSize" value="15" min="0" max="100" step="1"/>
+                </div>
+
+            </div>
+            <div class="label-controller__section">
+                <label>Style:</label>
+                <select id="eraserStyle">
+                    <option value="pencil">Normal</option>
+                    <option value="square">Square</option>
+                </select>
+            </div>
+        </div>
+    </div>
+    <div class="dialog">
+        <div class="dialog__main">
+            <h4>Are you sure to clear out the floor plan?</h4>
+            <div class="dialog__control">
+                <button class="kbtn kbtn-danger" id="dialog-yes"> Yes</button>
+                <button class="kbtn kbtn-primary" id="dialog-cancel"> Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="initial-dialog">
+    <div class="dialog__main">
+        <h4>Do you have a source material already ?</h4>
+        <div class="dialog__control">
+            <button class="kbtn kbtn-danger" id="dialog-source">Have One</button>
+            <button class="kbtn kbtn-primary" id="dialog-raw">Not yet</button>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>
