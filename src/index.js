@@ -13,15 +13,13 @@ import {removeTuts, initTut} from './app/tuts';
 import {initDialog, showDialog} from './app/dialog';
 import labelControl from './app/label';
 import eraserControl, {parseEraserConfig} from './app/eraser';
+import {drawGrid} from './app/grid';
+
 responsive();
 
 const canvas = new fabric.Canvas('c', { selection: false, backgroundColor : "#ffffff" });
 
-canvas.setBackgroundImage('http://orig15.deviantart.net/475d/f/2011/094/d/a/drawing_grid_by_blossomhillstables-d3d70y5.png',
-    canvas.renderAll.bind(canvas), {
-    backgroundImageOpacity: 0.5,
-    backgroundImageStretch: false
-});
+
 
 // variables declaration
 let line, room, isDown;
@@ -45,7 +43,7 @@ let eraserConfig = {
     eraserSize: 15,
     eraserStyle: 'pencil'
 }
-
+let gridGroup = new fabric.Group();
 // end variables
 initDialog(canvas);
 interactive(Event);
@@ -58,6 +56,7 @@ asyncFloorplan(Event, canvas);
 initIntro();
 labelControl(labelConfig, Event);
 eraserControl(eraserConfig, Event);
+drawGrid(canvas, 25, gridGroup);
 
 canvas.on('mouse:down', function(o){
     isDown = true;
@@ -400,6 +399,9 @@ canvas.on('object:added',function(){
     REDO = true;
 });
 
+canvas.on("mouse:up", function () {
+    gridGroup.bringToFront();
+})
 document.body.addEventListener('keydown', function(event) {
     if(event.keyCode === 46 && canvas.getActiveObject() !==null){
         canvas.getActiveObject().remove();
