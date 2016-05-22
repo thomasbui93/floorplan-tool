@@ -43,7 +43,8 @@ let eraserConfig = {
     eraserSize: 15,
     eraserStyle: 'pencil'
 }
-let gridGroup = new fabric.Group();
+var measureBar ;
+
 // end variables
 initDialog(canvas);
 interactive(Event);
@@ -56,8 +57,14 @@ asyncFloorplan(Event, canvas);
 initIntro();
 labelControl(labelConfig, Event);
 eraserControl(eraserConfig, Event);
-drawGrid(canvas, 25, gridGroup);
+//drawGrid(canvas, 25, gridGroup);
 
+fabric.loadSVGFromURL('tools/measurebar.svg', function(objects, options) {
+    measureBar = fabric.util.groupSVGElements(objects, options);
+    measureBar.scale(0.5);
+    canvas.add(measureBar);
+})
+    
 canvas.on('mouse:down', function(o){
     isDown = true;
     switch(STATE){
@@ -400,7 +407,9 @@ canvas.on('object:added',function(){
 });
 
 canvas.on("mouse:up", function () {
-    gridGroup.bringToFront();
+    if(measureBar != null && measureBar !==undefined){
+        measureBar.bringToFront();
+    }
 })
 document.body.addEventListener('keydown', function(event) {
     if(event.keyCode === 46 && canvas.getActiveObject() !==null){

@@ -1,0 +1,154 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg id="svgElement" width="923.9" height="1132.68" xmlns="http://www.w3.org/2000/svg" version="1.1" >
+	<g class="Floorplan" >	<polygon class="Room Room" points="798.9,674.406 707.321,674.406 707.321,579.447 579.552,579.447 579.552,125 125,125 125,537.608 368.912,537.608 368.912,722.261 579.552,722.261 579.552,1007.68 798.9,1007.68 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(255,255,255)" />
+	<polygon class="Room Room" points="368.912,537.608 125,537.608 125,722.261 368.912,722.261 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(255,255,255)" />
+	<polygon class="Room Room" points="734.241,503.303 579.552,503.303 579.552,579.447 734.241,579.447 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(255,255,255)" />
+	<polygon class="Room Room" points="798.9,503.303 777.415,503.303 777.415,579.447 798.9,579.447 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(255,255,255)" />
+	<polygon class="Room Room" points="798.9,579.447 707.321,579.447 707.321,674.406 798.9,674.406 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(255,255,255)" />
+	<polygon class="Room Room" points="754.8,503.303 734.241,503.303 734.241,579.447 754.8,579.447 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(255,255,255)" />
+	<polygon class="Room Room" points="777.415,503.303 754.8,503.303 754.8,579.447 777.415,579.447 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(255,255,255)" />
+	<g class="FixedFurniture Bath" transform="translate(84.915100 591.588000) rotate(-90.000000 87.500000 41.000000) scale(1.000000 1.000000)" ><polygon id="polygon5562" fill="#FFFFFF " stroke="#000000 " points="0.164,-0.227 0.164,81.773 175.164,81.773 175.164,-0.227 "/>
+<path fill="#FFFFFF " stroke="#000000 " d="M166.833,41c0,19.698,0,35.667-79.333,35.667S8.167,60.698,8.167,41
+    s0-35.667,79.333-35.667S166.833,21.302,166.833,41z"/>
+<path fill="#FFFFFF " stroke="#000000 " stroke-width="0.6971" stroke-linecap="round" stroke-linejoin="round" d="M44.386,37.859
+    c-0.039-0.001-0.075,0.007-0.114,0.007s-0.075-0.009-0.114-0.007c-1.732,0.063-3.091,1.498-3.049,3.219
+    c0.042,1.707,1.448,3.062,3.163,3.064c1.714-0.001,3.121-1.357,3.163-3.064C47.477,39.357,46.118,37.922,44.386,37.859z
+     M44.272,42.807c-0.984,0-1.792-0.783-1.816-1.77c-0.024-0.994,0.756-1.824,1.75-1.86c0.023-0.001,0.044,0.004,0.067,0.004
+    s0.044-0.005,0.067-0.004c0.994,0.036,1.774,0.866,1.75,1.86C46.064,42.024,45.256,42.807,44.272,42.807z"/></g>
+	<g class="FixedFurniture Toilet" transform="translate(296.715100 545.588000) scale(1.231527 1.195335)" ><rect x="-0.052" y="0.001" fill-opacity="0" stroke="#000000" stroke-width="1.021" width="38.867" height="17.797"/>
+<path fill="none" stroke="#000000" d="M38.866,43.298c0,0,1.078,26.01-19.11,26.01c-20.938,0-19.809-26.01-19.809-26.01V17.792 h38.868C38.928,25.812,38.855,34.673,38.866,43.298z"/>
+
+</g>
+	<polygon class="FixedFurniture Cabinet" points="729.95,762.339 729.95,798.339 789.95,798.339 789.95,762.339 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="FixedFurniture Cabinet" points="729.95,682.339 729.95,702.339 791.95,702.339 791.95,682.339 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<g class="FixedFurniture Dishwasher" transform="translate(730.415100 864.988000) rotate(90.000000 30.500000 30.000000) scale(0.983871 0.990099)" ><polygon fill="#FFFFFF" stroke="#000000" points="0,0 0,60.59 62.01,60.59 62.01,0 "/>
+<path fill="none" stroke="#000000" stroke-width="0.935" d="M0,0l31.006,42.368l0.004-20.893l31,39.115"/>
+<path fill="none" stroke="#000000" d="M2.829,61.42h56.36"/>
+</g>
+	<g class="FixedFurniture Stove" transform="translate(729.615100 704.588000) rotate(90.000000 30.500000 27.500000) scale(0.802632 0.859375)" ><polygon fill="#FFFFFF" stroke="#000000" points="0,0 0,65.5 77,65.5 77,0 "/>
+<g>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="0.433" cx="23.844" cy="20.771" rx="7.732" ry="7.517"/>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="0.433" cx="53.08" cy="44.729" rx="7.732" ry="7.517"/>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="0.433" cx="53.05" cy="20.771" rx="10.739" ry="10.596"/>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="0.433" cx="23.952" cy="44.729" rx="10.739" ry="10.596"/>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="0.385" cx="53.08" cy="20.823" rx="9.561" ry="9.442"/>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="0.368" cx="53.08" cy="44.73" rx="6.548" ry="6.417"/>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="0.368" cx="23.811" cy="20.846" rx="6.548" ry="6.417"/>
+	<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="0.385" cx="23.844" cy="44.708" rx="9.561" ry="9.442"/>
+</g>
+</g>
+	<g class="FixedFurniture SmallBasin" transform="translate(219.915100 545.988000) scale(1.000000 0.798226)" ><polygon fill="#FFFFFF" stroke="#000000" stroke-width="1.0152" points="0,46.1 61,46.1 61,0 0,0 "/>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="8.061,14.448 
+	4.615,11.216 4.615,41.022 8.061,37.854 "/>
+<g>
+	<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="
+		8.061,14.448 27.376,14.448 27.376,11.216 4.615,11.216 	"/>
+	<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="
+		33.624,11.216 33.624,14.448 52.939,14.448 56.385,11.216 	"/>
+</g>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="
+	52.939,14.448 56.385,11.216 56.385,41.022 52.939,37.854 "/>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="
+	52.939,37.854 30.5,37.854 8.061,37.854 4.615,41.022 30.5,41.022 56.385,41.022 "/>
+<path fill="#FFFFFF" stroke="#000000" stroke-width="0.697" stroke-linecap="round" stroke-linejoin="round" d="M30.614,23.555
+	c-0.039-0.001-0.075,0.007-0.114,0.007c-0.039,0-0.075-0.009-0.114-0.007c-1.732,0.063-3.091,1.498-3.049,3.219
+	c0.042,1.707,1.448,3.062,3.163,3.064c1.714-0.001,3.121-1.357,3.163-3.064C33.705,25.053,32.346,23.618,30.614,23.555z
+	 M30.5,28.503c-0.984,0-1.792-0.783-1.816-1.77c-0.024-0.994,0.756-1.824,1.75-1.86c0.023-0.001,0.044,0.004,0.067,0.004
+	s0.044-0.005,0.067-0.004c0.994,0.036,1.774,0.866,1.75,1.86C32.292,27.72,31.484,28.503,30.5,28.503z"/>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="30.5,5.82 
+	27.376,5.82 27.376,11.216 27.376,14.448 27.376,19.61 30.5,19.61 33.624,19.61 33.624,14.448 33.624,11.216 33.624,5.82 "/>
+</g>
+	<g class="FixedFurniture BigSink" transform="translate(725.415100 799.988000) rotate(90.000000 35.500000 30.000000) scale(1.183333 1.330377)" ><polygon fill="#FFFFFF" stroke="#000000" stroke-width="1.0152" points="0,46.1 61,46.1 61,0 0,0 "/>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="8.061,14.448 
+	4.615,11.216 4.615,41.022 8.061,37.854 "/>
+<g>
+	<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="
+		8.061,14.448 27.376,14.448 27.376,11.216 4.615,11.216 	"/>
+	<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="
+		33.624,11.216 33.624,14.448 52.939,14.448 56.385,11.216 	"/>
+</g>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="
+	52.939,14.448 56.385,11.216 56.385,41.022 52.939,37.854 "/>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="
+	52.939,37.854 30.5,37.854 8.061,37.854 4.615,41.022 30.5,41.022 56.385,41.022 "/>
+<path fill="#FFFFFF" stroke="#000000" stroke-width="0.697" stroke-linecap="round" stroke-linejoin="round" d="M30.614,23.555
+	c-0.039-0.001-0.075,0.007-0.114,0.007c-0.039,0-0.075-0.009-0.114-0.007c-1.732,0.063-3.091,1.498-3.049,3.219
+	c0.042,1.707,1.448,3.062,3.163,3.064c1.714-0.001,3.121-1.357,3.163-3.064C33.705,25.053,32.346,23.618,30.614,23.555z
+	 M30.5,28.503c-0.984,0-1.792-0.783-1.816-1.77c-0.024-0.994,0.756-1.824,1.75-1.86c0.023-0.001,0.044,0.004,0.067,0.004
+	s0.044-0.005,0.067-0.004c0.994,0.036,1.774,0.866,1.75,1.86C32.292,27.72,31.484,28.503,30.5,28.503z"/>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" points="30.5,5.82 
+	27.376,5.82 27.376,11.216 27.376,14.448 27.376,19.61 30.5,19.61 33.624,19.61 33.624,14.448 33.624,11.216 33.624,5.82 "/>
+</g>
+	<g class="FixedFurniture Washingmachine" transform="translate(730.715100 596.488000) rotate(90.000000 30.000000 31.000000) scale(0.983607 0.984127)" ><polygon fill="#FFFFFF" stroke="#000000" points="61.01,0 0,0 0,61.404 61.01,61.404 "/>
+<path fill="none" stroke="#000000" stroke-width="0.935" d="M0,0l30.501,40.663V19.77L61.01,61.404"/>
+<path fill="none" stroke="#000000" d="M10.931,62.31l40.496,0.007"/>
+</g>
+	<g class="FixedFurniture Refrigerator" transform="translate(719.915100 929.088000) rotate(90.000000 38.000000 34.000000) scale(0.826087 0.995608)" ><polygon fill="#FFFFFF" stroke="#000000" points="0,0 0,68.342 92.01,68.342 92.01,0 "/>
+<path fill="none" stroke="#000000" stroke-width="0.935" d="M0,0l46.005,42.964V22.07L92.01,65.201"/>
+<path fill="none" stroke="#000000" d="M0,65.201h92.01"/>
+<path fill="none" stroke="#000000" d="M89.102,69.051h-7.491"/>
+</g>
+	<polygon class="FixedFurniture Closet" points="579.95,572.339 725.95,572.339 725.95,510.339 579.95,510.339 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="FixedFurniture Cabinet" points="791.95,748.339 791.95,748.339 791.95,682.339 759.95,682.339 759.95,746.339 759.95,746.339 759.95,926.339 789.95,926.339 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="FixedFurniture Cabinet" points="759.95,682.339 759.95,746.339 759.95,746.339 759.95,926.339 789.95,926.339 789.95,748.339 789.95,748.339 789.95,682.339 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="FixedFurniture Cabinet" points="759.95,682.339 759.95,746.339 759.95,746.339 759.95,926.339 789.95,926.339 789.95,748.339 789.95,748.339 789.95,682.339 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="FixedFurniture Cabinet" points="789.95,748.339 789.95,748.339 789.95,682.339 759.95,682.339 759.95,746.339 759.95,746.339 759.95,926.339 789.95,926.339 " fill="rgb(255,255,255)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<g class="FixedFurniture Shower" transform="translate(156.315100 545.688000) scale(0.993671 0.980392)" ><path fill="none" stroke="#000000" stroke-linejoin="round" d="M32.081,0.502H0.495v6.146l31.581,0.021L32.081,0.502z"/>
+<ellipse fill="#FFFFFF" fill-opacity="0" stroke="#000000" cx="16.294" cy="42.573" rx="8.924" ry="8.947"/>
+<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" cx="16.364" cy="42.496" rx="7.605" ry="7.745"/>
+<polygon fill="#FFFFFF" stroke="#000000" stroke-width="0.694" stroke-linecap="round" stroke-linejoin="round" points="
+	32.075,6.668 28.674,6.665 28.674,0.5 32.081,0.5 "/>
+<rect x="0.525" y="0.592" fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" width="3.227" height="6.08"/>
+<rect x="14.891" y="0.689" fill="#FFFFFF" stroke="#000000" stroke-linejoin="round" width="2.722" height="42.701"/>
+<path fill="none" stroke="#000000" stroke-width="0.7" stroke-linecap="round" d="M3.785,3.562h1.749"/>
+<path fill="none" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" d="M26.925,3.562h1.749"/>
+<ellipse fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" cx="16.275" cy="42.356" rx="2.384" ry="2.302"/>
+</g>
+	<g class="FixedFurniture SlidingDoor" transform="translate(619.215100 579.088000) scale(0.471429 1.000000)" ><line fill="none" stroke="#000000 " stroke-width="3" stroke-miterlimit="10" x1="-0.015" y1="3" x2="140.015" y2="3"/></g>
+	<g class="FixedFurniture SlidingDoor" transform="translate(673.815100 626.988000) rotate(-90.000000 33.000000 3.000000) scale(0.471429 1.000000)" ><line fill="none" stroke="#000000 " stroke-width="3" stroke-miterlimit="10" x1="-0.015" y1="3" x2="140.015" y2="3"/></g>
+	<polygon class="Wall" points="132.5,132.5 572.052,132.5 587.052,117.5 117.5,117.5 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="572.052,132.5 572.052,510.803 587.052,495.803 587.052,117.5 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="791.4,1000.18 587.052,1000.18 572.052,1015.18 806.4,1015.18 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="587.052,1000.18 587.052,714.761 572.052,729.761 572.052,1015.18 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="132.5,714.761 132.5,545.108 117.5,530.108 117.5,729.761 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="132.5,537.608 132.5,132.5 117.5,117.5 117.5,537.608 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="361.412,545.108 361.412,729.761 376.412,714.761 376.412,530.108 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="587.052,714.761 376.412,714.761 361.412,729.761 572.052,729.761 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="368.912,714.761 132.5,714.761 117.5,729.761 368.912,729.761 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="132.5,545.108 361.412,545.108 376.412,530.108 117.5,530.108 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="368.912,545.108 476.034,545.108 476.034,530.108 368.912,530.108 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="572.052,503.303 572.052,586.947 587.052,571.947 587.052,503.303 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="791.4,510.803 791.4,571.947 806.4,586.947 806.4,495.803 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="699.821,586.947 699.821,681.906 714.821,666.906 714.821,571.947 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="572.052,586.947 699.821,586.947 714.821,571.947 587.052,571.947 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="699.821,681.906 806.4,681.906 791.4,666.906 714.821,666.906 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="791.4,579.447 791.4,666.906 806.4,681.906 806.4,579.447 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="791.4,674.406 791.4,1000.18 806.4,1015.18 806.4,674.406 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="726.741,510.803 726.741,571.947 741.741,586.947 741.741,495.803 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="572.052,510.803 726.741,510.803 741.741,495.803 587.052,495.803 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="707.321,586.947 741.741,586.947 726.741,571.947 707.321,571.947 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="738.8,503.303 738.8,579.447 770.8,579.447 770.8,503.303 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="734.241,510.803 754.8,510.803 754.8,495.803 734.241,495.803 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="734.241,586.947 754.8,586.947 754.8,571.947 734.241,571.947 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="758.915,503.303 758.915,579.447 795.915,579.447 795.915,503.303 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="754.8,510.803 777.415,510.803 777.415,495.803 754.8,495.803 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="777.415,510.803 791.4,510.803 806.4,495.803 777.415,495.803 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="754.8,586.947 777.415,586.947 777.415,571.947 754.8,571.947 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<polygon class="Wall" points="777.415,586.947 806.4,586.947 791.4,571.947 777.415,571.947 " fill="rgb(0,0,0)" stroke-width="1" stroke="rgb(0,0,0)" />
+	<g class="Window" >	<line x1="141.976" y1="125" x2="548.976" y2="125" stroke-width="12.5" stroke="rgb(240,240,255)" />
+	<line x1="149.476" y1="125" x2="541.476" y2="125" stroke-width="1.5" stroke="rgb(0,0,0)" />
+	<line x1="149.476" y1="117.5" x2="149.476" y2="132.5" stroke-width="1.5" stroke="rgb(0,0,0)" />
+	<line x1="541.476" y1="117.5" x2="541.476" y2="132.5" stroke-width="1.5" stroke="rgb(0,0,0)" />
+</g>
+	<g class="Door SingleSwingLeft" >	<path d = "M678.906, 1007.68 q0,-87 -87,-87 l-0,87" fill="none" stroke-width="1.5" stroke="rgb(0,0,0)" />
+	<line x1="678.906" y1="1007.68" x2="591.906" y2="1007.68" stroke-width="14.9" stroke="rgb(255,255,255)" />
+</g>
+	<g class="DoorOpening" >	<line x1="368.912" y1="620.434" x2="368.912" y2="702.434" stroke-width="14.9" stroke="rgb(255,255,255)" />
+</g>
+	<g class="DoorOpening" >	<line x1="707.321" y1="600.207" x2="707.321" y2="662.207" stroke-width="14.9" stroke="rgb(255,255,255)" />
+</g>
+	<g class="DoorOpening" >	<line x1="621.686" y1="579.447" x2="683.686" y2="579.447" stroke-width="14.9" stroke="rgb(255,255,255)" />
+</g>
+</g>
+</svg>
