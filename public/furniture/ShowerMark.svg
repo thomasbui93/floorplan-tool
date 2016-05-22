@@ -1,0 +1,30 @@
+<svg version="1.1"
+	 id="svgElement" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="151px" height="151.1px"
+	 viewBox="0 0 151 151.1" enable-background="new 0 0 151 151.1" xml:space="preserve">
+<polygon id="polygon5564" fill="#FFFFFF" stroke="#000000" points="0.5,0.5 0.5,150.6 150.5,150.6 150.5,0.5 "/>
+<path id="path3455" fill="none" stroke="#000000" d="M0.5,150.6l150-150.1"/>
+<path id="path3457" fill="none" stroke="#000000" d="M0.5,0.5l150,150.1"/>
+<g>
+	<path id="path5372_1_" fill="none" stroke="#000000" stroke-linejoin="round" d="M91.294,0.5
+		H59.706v6.146l31.582,0.021L91.294,0.5z"/>
+	<ellipse id="path5376_1_" fill="#FFFFFF" fill-opacity="0" stroke="#000000" cx="75.506" cy="42.575" rx="8.924" ry="8.947"/>
+	
+		<ellipse id="path5417_1_" fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" cx="75.576" cy="42.498" rx="7.605" ry="7.745"/>
+	
+		<polygon id="rect5436_1_" fill="#FFFFFF" stroke="#000000" stroke-width="0.6944" stroke-linecap="round" stroke-linejoin="round" points="
+		91.288,6.668 87.886,6.665 87.886,0.5 91.294,0.5 	"/>
+	
+		<rect id="rect5438_1_" x="59.736" y="0.588" fill="#FFFFFF" stroke="#000000" stroke-width="0.7001" stroke-linecap="round" stroke-linejoin="round" width="3.227" height="6.08"/>
+	
+		<rect id="rect5394-1-5_1_" x="74.103" y="0.689" fill="#FFFFFF" stroke="#000000" stroke-linejoin="round" width="2.722" height="42.703"/>
+	
+		<path id="path5472_1_" fill="none" stroke="#000000" stroke-width="0.7" stroke-linecap="round" d="
+		M62.997,3.562h1.749"/>
+	
+		<path id="path5472-9_1_" fill="none" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" d="
+		M86.137,3.562h1.749"/>
+	
+		<ellipse id="path5489_1_" fill="#FFFFFF" stroke="#000000" stroke-width="0.7" stroke-linecap="round" stroke-linejoin="round" cx="75.487" cy="42.358" rx="2.384" ry="2.302"/>
+</g>
+</svg>

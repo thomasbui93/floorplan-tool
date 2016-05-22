@@ -1,0 +1,11 @@
+<svg id="svgElement" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 109 132">
+  <title>stairs</title>
+  <g>
+    <polygon points="0.5 131.5 108.5 131.5 108.5 0.5 0.5 0.5 0.5 131.5" fill="#fff" stroke="#000"/>
+    <line x1="0.5" y1="109.67" x2="108.5" y2="109.67" fill="none" stroke="#000"/>
+    <line x1="0.5" y1="87.83" x2="108.5" y2="87.83" fill="none" stroke="#000"/>
+    <line x1="0.5" y1="66" x2="108.5" y2="66" fill="none" stroke="#000"/>
+    <line x1="0.5" y1="44.17" x2="108.5" y2="44.17" fill="none" stroke="#000"/>
+    <line x1="0.5" y1="22.33" x2="108.5" y2="22.33" fill="none" stroke="#000"/>
+  </g>
+</svg>

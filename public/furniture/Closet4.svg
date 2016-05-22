@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   height="65.553688"
+   width="239.81758"
+   id="svgElement">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs21" />
+  <g
+     transform="translate(-320.75177,-253.18573)"
+     id="g3"
+     class="Floorplan">
+    <polygon
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       transform="matrix(1.0001456,0,0,0.98245677,-2.6333068,-208.04236)"
+       id="polygon7-2-6"
+       points="383.838,534.964 383.838,469.964 323.838,469.964 323.838,534.964 "
+       class="FixedFurniture Closet" />
+    <path
+       id="path4359-4-7"
+       d="m 379.60943,318.23175 -9.36916,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <polygon
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       transform="matrix(1.0001456,0,0,0.98245677,56.763663,-208.04236)"
+       id="polygon7-7-6"
+       points="383.838,534.964 383.838,469.964 323.838,469.964 323.838,534.964 "
+       class="FixedFurniture Closet" />
+    <path
+       id="path4359-46-3"
+       d="m 439.00641,318.23175 -9.36916,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <polygon
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       transform="matrix(1.0001456,0,0,0.98245677,116.77843,-208.0347)"
+       id="polygon7-2-9"
+       points="383.838,534.964 383.838,469.964 323.838,469.964 323.838,534.964 "
+       class="FixedFurniture Closet" />
+    <path
+       id="path4359-4-6"
+       d="m 499.02117,318.23941 -9.36916,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <polygon
+       style="fill:#ffffff;stroke:#000000;stroke-width:1"
+       transform="matrix(1.0001456,0,0,0.98245677,176.1754,-208.0347)"
+       id="polygon7-7-2"
+       points="383.838,534.964 383.838,469.964 323.838,469.964 323.838,534.964 "
+       class="FixedFurniture Closet" />
+    <path
+       id="path4359-46-7"
+       d="m 558.41815,318.23941 -9.36916,0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg id="objects" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.92 77.07">
+  <title>toilet</title>
+  <g>
+    <rect x="1" y="1" width="50.92" height="20.64" rx="3" ry="3" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M467.54,478.89c0,18,11.4,32.59,25.46,32.59s25.46-14.59,25.46-32.59A38,38,0,0,0,511.89,457H474.11A38,38,0,0,0,467.54,478.89Z" transform="translate(-466.54 -435.41)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g>
+      <path d="M493,504.47c-10,0-18.45-11.71-18.45-25.58A32.2,32.2,0,0,1,478,464.06h30a32.19,32.19,0,0,1,3.48,14.83C511.45,492.75,503,504.47,493,504.47Z" transform="translate(-466.54 -435.41)" fill="#f2f2f2"/>
+      <path d="M493,504.47c-10,0-18.45-11.71-18.45-25.58A32.2,32.2,0,0,1,478,464.06h30a32.19,32.19,0,0,1,3.48,14.83C511.45,492.75,503,504.47,493,504.47Z" transform="translate(-466.54 -435.41)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <circle cx="26.46" cy="11.32" r="3.72" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <path d="M19.63,46H33.29a0,0,0,0,1,0,0v8.09A4.87,4.87,0,0,1,28.42,59H24.5a4.87,4.87,0,0,1-4.87-4.87V46A0,0,0,0,1,19.63,46Z" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  </g>
+</svg>

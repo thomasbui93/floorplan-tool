@@ -1,0 +1,30 @@
+<svg id="objects" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.37 86.76">
+  <title>kitchen-table</title>
+  <g>
+    <path d="M116.49,628.14H87.17A14.57,14.57,0,0,0,72.61,642.7v23.7A14.57,14.57,0,0,0,87.17,681h67.58a14.57,14.57,0,0,0,14.57-14.57V642.7a14.57,14.57,0,0,0-14.57-14.57H116.49Z" transform="translate(-55.82 -611.28)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    <g>
+      <rect x="31.36" y="69.9" width="29.31" height="9.49" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M110.12,697H93.55a6.37,6.37,0,0,1-6.37-6.37h29.31A6.37,6.37,0,0,1,110.12,697Z" transform="translate(-55.82 -611.28)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="68.99" y="69.9" width="29.31" height="9.49" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M147.75,697H131.18a6.37,6.37,0,0,1-6.37-6.37h29.31A6.37,6.37,0,0,1,147.75,697Z" transform="translate(-55.82 -611.28)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="124.8" y="618.65" width="29.31" height="9.49" transform="translate(223.11 635.51) rotate(180)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M131.18,612.28h16.57a6.37,6.37,0,0,1,6.37,6.37H124.8A6.37,6.37,0,0,1,131.18,612.28Z" transform="translate(-55.82 -611.28)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="159.41" y="649.81" width="29.31" height="9.49" transform="translate(-536.31 217.34) rotate(-90)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M185.18,646.27v16.57a6.37,6.37,0,0,1-6.37,6.37h0V639.9h0A6.37,6.37,0,0,1,185.18,646.27Z" transform="translate(-55.82 -611.28)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="53.28" y="649.81" width="29.31" height="9.49" transform="translate(666.67 -24.66) rotate(90)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M56.82,662.84V646.27a6.37,6.37,0,0,1,6.37-6.37h0v29.31h0A6.37,6.37,0,0,1,56.82,662.84Z" transform="translate(-55.82 -611.28)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+    <g>
+      <rect x="87.17" y="618.65" width="29.31" height="9.49" transform="translate(147.85 635.51) rotate(180)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <path d="M93.55,612.28h16.57a6.37,6.37,0,0,1,6.37,6.37H87.17A6.37,6.37,0,0,1,93.55,612.28Z" transform="translate(-55.82 -611.28)" fill="#f2f2f2" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
